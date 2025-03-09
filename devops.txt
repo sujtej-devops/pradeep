@@ -1,4 +1,8 @@
-echo "hii "
-echo " iam now starting the git hub"
-echo " i am working in git hub"
-
+"hii "
+ " iam now starting the git hub"
+" i am working in git hub"
+  fun(){
+-------
+------
+}
+calling the function name
